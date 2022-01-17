@@ -380,7 +380,7 @@ class: inverse, center, middle
 
 --
 
-- **Module 2:** Perfomance Analytics
+- **Module 2:** Performance Analytics
 
 --
 
@@ -428,7 +428,7 @@ include_graphics("img/workshop.jpg")
 
 --
 
-- `r fa("comments", fill = "#782F40")` Discuss (Flipgrid)
+- `r fa("comments", fill = "#782F40")` Discuss (Flipgrid or VoiceThread)
 
 --
 
